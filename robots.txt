@@ -1,0 +1,33 @@
+# robots.txt for MyBillMaker.com
+# Free Invoice Generator, Receipt Maker & Estimate Creator
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://mybillmaker.com/sitemap.xml
+
+# Welcome search engine bots!
+# Google, Bing, Yahoo, DuckDuckGo - index everything
+# AI bots (ChatGPT, Claude, Perplexity) - you're welcome too
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
